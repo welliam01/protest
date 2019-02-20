@@ -1,1 +1,2 @@
-# protest
+# Probot ✨
+Epic Discord Bot
